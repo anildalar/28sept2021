@@ -1,0 +1,79 @@
+touch <filename>
+
+mkdir = make directory
+mkdir <dirname>
+mkdir css
+mkdir js
+mkdir fonts
+mkdir img
+
+Indentation
+ Proper spacing/gap in codeing is called indentation
+
+
+div = division tag
+
+<tag attribute="value">Anil DOllor</tag>
+
+alt + shift + downarrow
+
+
+element{
+	property:value;
+}
+
+
+Types of Tag
+1. Block Level Tag/Element
+2. Inline Tag
+
+Block Level Tag
+1. Block Level Tag Start From a new Line
+Eg.
+	div,p,h1,h1,h3,h6
+
+
+Inline Tag
+1. Inline Tag dont start from a new line
+Eg.
+	span,img are inline tags
+
+f2 = rename 
+
+src = source
+
+<tag attribute="value"></tag>
+<img src="">
+	
+Ctrl + Space
+
+jpg
+jpeg
+
+joint photographic expert group = jpeg,jpg
+
+Temproray Resizing
+
+Permanent Resizing
+
+window + r = run
+
+
+
+CSS Cascading Style Sheet
+
+Selector
+1.ID Selector #
+2. Class Selector .
+
+
+Our Goal
+To Reduce the code
+
+Assignment 2
+Go to the link
+https://www.w3schools.com/colors/colors_names.asp
+
+Create 140 box with the help of class Selector
+
+as it is
