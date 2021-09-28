@@ -77,3 +77,88 @@ https://www.w3schools.com/colors/colors_names.asp
 Create 140 box with the help of class Selector
 
 as it is
+
+SCM = Source Code Managment
+
+GitHub
+
+Project = Repository = Repo
+
+cd = change directory = cd
+
+cd <dirname>
+
+./ = current directory
+
+Stagging
+git add .
+
+Commit
+git commit -m "message"
+
+Push
+git push origin master
+
+GitHub
+1.Store
+2.Deployment
+
+Website Live
+1. Domain Name  https://payaldhaker.com
+2. Hosting	Space
+
+Totally Free
+
+
+Create BOx in CSS
+1. Width
+2. Height
+3. Background-color
+
+Local vs Live
+
+WebSite Desing
+1. Code Reduce
+
+
+git init          = one time
+stage,commit,push = many time
+
+
+local -> github -> Live
+
+You can manage multiple versio of you work
+
+multiple version = commits
+
+
+Another Deployment Website
+
+https://netlify.app
+
+https://anildalar.github.io/28sept2021/
+https://oklabs-payal.netlify.app/
+
+CSS Selectos
+1. ID Selector    		#
+2. Class Selector 		.
+3. Pseudo Class Selector	:
+   State control
+
+Deployment
+1. GitHub Pages   Slow Build Process
+2. Netlify        Fast Build Process
+
+Assignment
+Go to below link
+https://www.w3schools.com/colors/colors_names.asp
+and create 140 box with the class selector
+and Use Psedo class Selector on every box
+
+
+Common Class
+
+
+Main Goal is to design website with effiecent/less Code
+
+
